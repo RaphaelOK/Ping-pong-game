@@ -1,0 +1,18 @@
+Welcome to the Ping-Pong game with Python!
+
+To run this game, you will need Python 3 installed on your computer.
+
+Once you have Python 3 installed, follow these steps:
+
+Download or clone the Ping-Pong game repository from GitHub.
+
+Open your terminal or command prompt and navigate to the Ping-Pong game directory.
+
+Run the game by running the following command:
+python main.py
+
+Use the left and right arrow keys to move your paddle and hit the ball back to your opponent.
+
+The game will end when one player reaches 11 points or the ball goes out of bounds.
+
+Enjoy playing Ping-Pong!
